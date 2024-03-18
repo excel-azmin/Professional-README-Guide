@@ -6,6 +6,19 @@ Provide a brief, high-level overview of your project, including its purpose, val
 ## Features
 List the key features of the project. Highlight what makes your project stand out.
 
+
+
+## Table of Contents
+- [Getting Started](#Getting-Started)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support and Contact](#Support and Contact)
+- [FAQs](#FAQs)
+  
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
