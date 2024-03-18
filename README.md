@@ -9,14 +9,14 @@ List the key features of the project. Highlight what makes your project stand ou
 
 
 ## Table of Contents
-- [Getting Started](#Getting-Started)
-- [Prerequisites](#Prerequisites)
-- [Installation](#Installation)
-- [Usage](#Usage)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support and Contact](#Support and Contact)
-- [FAQs](#FAQs)
+- [Support and Contact](#support-and-contact)
+- [FAQs](#faqs)
   
 
 ## Getting Started
